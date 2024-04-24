@@ -1,4 +1,8 @@
-[English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md)
+<kbd href="README.md"> <br> [English README](README.md) <br> </kbd>
+<kbd href="README.md"> <br> [日本語 README](README-ja.md) <br> </kbd>
+<kbd href="README.md"> <br> [简体中文 README](README-zhHans.md) <br> </kbd>
+<kbd href="README.md"> <br> [繁體中文 README](README-zhHant.md) <br> </kbd>
+
 # ServiceLogos
 こんにちは、こんばんは
 ここはさわらつきが作った各サービスのロゴをアップロードするリポジトリです。
