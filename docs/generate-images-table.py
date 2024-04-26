@@ -14,7 +14,7 @@ def main():
             continue
             
         # Get all png files in the directory
-        files = [f for f in os.listdir(os.path.join(current_dir, "..", d)) if f.endswith(".png")]
+        files = [f for f in os.listdir(os.path.join(current_dir, "../src/", d)) if f.endswith(".png")]
         if not files:
             continue
 
