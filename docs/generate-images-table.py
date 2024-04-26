@@ -7,8 +7,8 @@ def main():
 
     # Get all directories in the parent directory
     data: dict[str, list[str]] = {}
-    for d in os.listdir(os.path.join(current_dir, "..")):
-        if not os.path.isdir(os.path.join(current_dir, "..", d)):
+    for d in os.listdir(os.path.join(current_dir, "../src/")):
+        if not os.path.isdir(os.path.join(current_dir, "../src/", d)):
             continue
         if d.startswith("."):
             continue
